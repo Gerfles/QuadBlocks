@@ -1,0 +1,17 @@
+font_size 42
+font_file text/pixel.ttf
+screen_offset -350 100
+display_size 1024 768
+color 200 100 45
+spacing 45
+method BULLET
+speed 200
+linger 0
+allignment RIGHT
+inverted FALSE
+Time: 0:00:04
+Level: 1
+Cleared Lines: 0
+Tetrises: 0
+--------------------------
+Total Score: 0

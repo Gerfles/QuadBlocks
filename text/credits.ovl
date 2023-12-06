@@ -1,0 +1,30 @@
+font_size 38
+font_file text/pixel.ttf
+screen_offset 0 0
+display_size 1024 768
+color 200 80 45
+spacing 30
+method SCROLL
+speed 30
+linger 1800
+allignment CENTER
+inverted FALSE
+Lead Programmer
+ Geoff PhillipS
+
+Only Programmer
+ Geoff PhillipS
+
+Design & Some Art
+ Geoff PhillipS
+
+Pixel Art Forest
+ Eder Muniz 
+
+Emotional Support & Yummy LuncheS
+ River NileS
+
+Special Thanks 
+ (CreditS for other assets to come...)
+
+ etc...

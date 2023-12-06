@@ -1,0 +1,14 @@
+.DS_Store
+*~
+*#
+/src/core/CMakeFiles
+/asset\ dev
+/.cache
+/.clangd
+/build/**
+/cMakeFiles
+/printable
+CmakeCache.txt
+CMakeLists.txt
+compile_commands.json
+Makefile

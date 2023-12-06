@@ -1,0 +1,28 @@
+font_size 42
+font_file fonts/pixel.ttf
+screen_offset  0 100
+display_size 1024 768
+color 255 255 255
+spacing 40
+method BULLET
+speed 300
+linger 999999
+allignment CENTER
+inverted FALSE
+HI SCORES
+----------------
+geoff - 5050    
+Donkey kong - 4650    
+I suck - 1550    
+ee - 950    
+geoff - 850    
+reptile - 650    
+raiden - 500    
+geoff - 500    
+Sonya blade - 300    
+Liu kang - 100    
+scorpion - 50    
+sub zero - 50    
+ee - 50    
+geoff - 0    
+geoff - 0    

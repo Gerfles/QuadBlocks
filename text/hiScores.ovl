@@ -1,0 +1,26 @@
+font_size 42
+font_file text/pixel.ttf
+screen_offset -250 100
+display_size 1024 768
+color 200 100 45
+spacing 40
+method BULLET
+speed 200
+linger 0
+allignment RIGHT
+inverted FALSE
+HI SCORES        
+--------------------------------
+Geoff Phillips - 8600    
+GEOFF!!! - 8050    
+geoff - 5050    
+Donkey kong - 4650    
+I suck - 1550    
+ee - 950    
+geoff - 850    
+reptile - 650    
+geoff - 500    
+raiden - 500    
+tony the tiger - 300    
+I lost - 0    
+What's a videogame - 0    
