@@ -9,6 +9,6 @@
 /cMakeFiles
 /printable
 CmakeCache.txt
-CMakeLists.txt
 compile_commands.json
+cmake_install.cmake
 Makefile
